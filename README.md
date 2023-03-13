@@ -13,7 +13,7 @@ In both nlp parent folders, "Sample code.ipynb" or "Sample code.py" (you can pic
 Once user runs the codes, three json files should be expected as outputs, including:
 1. json file containing news tiles;
 2. json file containing researcher names;
-3. json file containing researcher gender.
+3. json file containing researcher genders.
 
 
 Codes are still WIP v1.0.
