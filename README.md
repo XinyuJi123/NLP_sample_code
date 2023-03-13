@@ -4,7 +4,7 @@ There are two versions of nlp sample codes for the purpose of researcher name ex
 For the purpose of demonstration, news are extracted from "Science Daily" website,(https://www.sciencedaily.com/) and stored inside the folder "News" (inside both nlp parent folders)
 
 
-In both nlp parent folders, "Sample code.ipynb" is the main file with three functions: 
+In both nlp parent folders, "Sample code.ipynb" or "Sample code.py" (you can pick one to your liking) is the main file with three functions: 
 
 1. Extracting news titles from file names; 
 2. Extracting researcher names from news content; 
